@@ -7,7 +7,6 @@
       },
     "developer" : "Tookan Inc",
     "abilities" : {
-    "side-menu" : true,
-    "toolbar-menu" : true
+    "side-menu" : true
       }
 }
