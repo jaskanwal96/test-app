@@ -45,7 +45,7 @@
         "icon": "./advanceAnalytics.png",
         "functionalize": {
             "internal_functionality": false,
-            "url": "www.yourcompany.com/advanceAnalyticsUrl",
+            "url": "www.github.com/jaskanwal96/test-app",
             "target": "_blank"
         }
     }
