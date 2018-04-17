@@ -2,7 +2,7 @@
     {
         "type": "button",
         "name": "Dashboard",
-        "icon": "./dashboard.png",
+        "icon": "./1.png",
         "functionalize": {
             "internal_functionality": true,
             "url": "#/app/dashboard",
@@ -12,7 +12,7 @@
     {
         "type": "button",
         "name": "Employee",
-        "icon": "./employee.png",
+        "icon": "./2.png",
         "functionalize": {
             "internal_functionality": true,
             "url": "#/app/settings/agents-list",
@@ -22,7 +22,7 @@
     {
         "type": "button",
         "name": "Customer",
-        "icon": "./customer.png",
+        "icon": "./3.png",
         "functionalize": {
             "internal_functionality": true,
             "url": "#/app/all-customers",
@@ -32,7 +32,7 @@
     {
         "type": "button",
         "name": "Analytics",
-        "icon": "./analytics.png",
+        "icon": "./4.png",
         "functionalize": {
             "internal_functionality": true,
             "url": "#/app/analytics",
