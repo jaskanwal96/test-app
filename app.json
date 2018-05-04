@@ -5,13 +5,8 @@
     "favicon" :  {
     "path": "./abc.png"
       },
-    "functionalize" : {
-      "internal_functionality": false, // true if url is relative
-      "url" : "http://xero-test.tookanapp.com/",
-      "target" : "_self"
-    }
-    "developer" : "Tookan Inc",
+    "developer" : "Sunny Inc",
     "abilities" : {
-    "side-menu" : true
+    "xero" : true
       }
 }
